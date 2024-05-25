@@ -1,0 +1,25 @@
+H1{
+    color: black;
+   
+    text-align: center;
+}
+.x{
+    /* background-color: blue; */
+    margin-top: -25px;
+}
+img{
+    height: 250px;
+    width: 400px;
+    display:inline-block;
+    margin-left: 5px;
+}
+
+a{
+    color: black;
+    /* background-color: blue; */
+    text-align: center;
+
+}
+body{
+    background-color: aqua;
+}
